@@ -10,9 +10,8 @@ Software Developer • Creative Technologist • Music-driven thinker
 
 I’m Joy, a software developer who sees programming as a creative medium.
 
-Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool. I’m dedicated to learning, building, and developing my programming skills, always looking for opportunities to improve through real projects.
-
-I’m currently focused on full-stack development, working with modern web technologies and continuously improving through real-world projects. I enjoy turning ideas into interactive digital experiences and exploring the intersection between logic and creativity.
+Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool. 
+I’m dedicated to learning, building, and developing my programming skills, always looking for opportunities to improve through real projects.
 
 ---
 
