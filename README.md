@@ -1,45 +1,57 @@
-<h1 align="center">Hi, I'm Joy</h1>
-
-## About Me
-Passionate about music, an art in which I have worked self-taught. My enthusiasm also extends to the digital world and technology, where I have a deep interest in programming as a creative tool.
-I’m dedicated to learning, building, and developing my programming skills, always looking for opportunities to improve through real projects.
-
-### Connect with Me
-[LinkedIn](https://www.linkedin.com/in/johana-amorin-bb7992287/) | [Instagram](https://www.instagram.com/joy_amorin_/)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a hre
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/media/EuWwR2CWQAQ90WL?format=jpg&name=large" alt="C#" width="40" height="40"/>
-  </a>
-</p>
-
-
+<h1 align="center">Hi, I'm Joy ✨</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-amorin&show_icons=true&locale=en&layout=compact" alt="joy-amorin" />
+Software Developer • Creative Technologist • Music-driven thinker
 </p>
 
+---
+
+## About Me
+
+I’m Joy, a software developer who sees programming as a creative medium.
+
+My background comes from music, where I developed a self-taught practice that shaped how I think: structured, expressive, and detail-oriented. I bring that same mindset into software — building systems that are not only functional, but intentional and visually thoughtful.
+
+I’m currently focused on full-stack development, working with modern web technologies and continuously improving through real-world projects. I enjoy turning ideas into interactive digital experiences and exploring the intersection between logic and creativity.
+
+---
+
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/johana-amorin-bb7992287/) • [Instagram](https://www.instagram.com/joy_amorin_/)
+
+---
+
+## Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+---
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-amorin&show_icons=true&layout=compact" />
+</p>
